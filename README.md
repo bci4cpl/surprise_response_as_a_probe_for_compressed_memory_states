@@ -13,7 +13,7 @@ After running this code on a dataset you will have the following arrays:
        time point corresponds to an EEG sample. Time t=0 corresponds to
        the beginning of recording.
        
-`Trig` - same as trigger channel (last channel in full_data_new). Trigger
+`Trig` - same as trigger channel (last channel in `full_data_new`). Trigger
       codes: `514` - beginning of measurement, `100`/`200` - end of block
              `1`/`2` - high frequency, `3`/`4` - low frequency
              
