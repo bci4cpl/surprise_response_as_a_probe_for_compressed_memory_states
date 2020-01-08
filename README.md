@@ -2,7 +2,7 @@
 
 This code accompanies the data published with the paper:
 
-"Surprise response as a probe for compressed memory states" 
+> "Surprise response as a probe for compressed memory states" 
 by Hadar Levi-Aharoni, Oren Shriki and Naftali Tishby.
 
 After running this code on a dataset you will have the following arrays:
