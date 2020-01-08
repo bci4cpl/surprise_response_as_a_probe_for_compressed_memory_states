@@ -22,7 +22,7 @@ there are ~1-2 trials missing (missed triggers) and should be taken care of
 (should be manually removed in the analysis)
 
 Example:
-```
+```matlab
 load('S1\Data_S1.mat')
 prepare_data_and_triggers_P300Dataset;
 ```
