@@ -17,7 +17,7 @@ After running this code on a dataset you will have the following arrays:
       codes: `514` - beginning of measurement, `100`/`200` - end of block
              `1`/`2` - high frequency, `3`/`4` - low frequency
              
-If using the corresponding stimSeq file, note that in a few datasets 
+If using the corresponding `stimSeq` file, note that in a few datasets 
 there are ~1-2 trials missing (missed triggers) and should be taken care of
 (should be manually removed in the analysis)
 
