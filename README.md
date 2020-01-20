@@ -5,6 +5,8 @@ This code accompanies the data published with the paper:
 > "Surprise response as a probe for compressed memory states" 
 by Hadar Levi-Aharoni, Oren Shriki and Naftali Tishby.
 
+The data can be downloaded directly from [here](https://www.dropbox.com/s/66c4y2kzug3cvcz/P300Data_and_Code.zip?dl=1). 
+
 After running this code on a dataset you will have the following arrays:
 
 `full_data_new` - all EEG data and trigger channel (last channel)
