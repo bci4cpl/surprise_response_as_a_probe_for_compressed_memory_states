@@ -2,8 +2,7 @@
 
 This code accompanies the data published with the paper:
 
-> "Surprise response as a probe for compressed memory states" 
-by Hadar Levi-Aharoni, Oren Shriki and Naftali Tishby.
+>  [Levi-Aharoni H, Shriki O, Tishby N (2020) Surprise response as a probe for compressed memory states. PLOS Computational Biology 16(2): e1007065.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007065)
 
 The data can be downloaded directly from [here](https://www.dropbox.com/s/66c4y2kzug3cvcz/P300Data_and_Code.zip?dl=1). 
 
